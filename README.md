@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I'm Sasidhar Mopuru
+# Sasidhar Mopuru
 
-### Data Engineer | Databricks Certified | Python | SQL | AI / LLM Evaluation
+### Data & AI Platform Engineer | Databricks Certified | Kafka · PySpark · Delta Lake · Python
 
 [![Live Portfolio](https://img.shields.io/badge/Live%20Portfolio-sasireddy001.github.io%2FPortfolio-4ade80?logo=githubpages&logoColor=white)](https://sasireddy001.github.io/Portfolio)
 [![Portfolio Repo](https://img.shields.io/badge/Portfolio%20Repo-Sasireddy001%2FPortfolio-181717?logo=github&logoColor=white)](https://github.com/Sasireddy001/Portfolio)
@@ -11,17 +11,22 @@
 
 ## About Me
 
-I build scalable data pipelines and lakehouse systems with a focus on reliability,
-testability, and performance. I specialize in end-to-end data engineering with:
+I am a **Data & AI Platform Engineer with 2+ years of experience** building production-grade streaming data products and lakehouse systems at Accenture. I specialize in turning high-velocity event data into reliable, AI-ready data platforms.
 
-- Event streaming with **Apache Kafka**
-- Distributed processing with **Apache Spark / PySpark**
-- Lakehouse architectures with **Delta Lake** and **Databricks**
-- Reliable, testable pipelines with **CI/CD**
+- **Real-time pipelines:** Kafka → PySpark → Delta Lake with exactly-once processing
+- **Cloud & Lakehouse platforms:** Databricks, Apache Spark, schema enforcement, data quality
+- **AI-ready data engineering:** Evaluation systems, RAG data foundations, and agentic pipelines
+- **Production discipline:** CI/CD, automated testing, modular configuration-driven code
 
-My long-term goal is to transition into AI and LLM engineering roles, applying my
-data background to training datasets, evaluation systems, and intelligent
-applications.
+I am actively expanding into **Cloud, DevOps, Platform Engineering, and AI/LLM systems** — roles where strong data-engineering fundamentals are a force multiplier.
+
+## What I Build
+
+End-to-end streaming data platforms that feed analytics, ML, and generative AI applications — with the reliability, testability, and observability production systems demand.
+
+## Target Roles
+
+Cloud Data Engineer · Data Platform Engineer · AI Engineer · Solutions Architect · DevOps Engineer (data-platform focus)
 
 ## Tech Stack
 
@@ -34,11 +39,8 @@ applications.
 
 ## Featured Work
 
-- **Portfolio** — [Live site](https://sasireddy001.github.io/Portfolio) and
-  [repository](https://github.com/Sasireddy001/Portfolio) with my experience,
-  certifications, and technical skills.
-- **[Production-Style Kafka PySpark Delta Pipeline](https://github.com/Sasireddy001/Kafka-pyspark-delta-pipeline)** — production-style Kafka ingestion,
-  PySpark Structured Streaming transformations, and Delta Lake storage on Databricks.
+- **[Production-Style Kafka PySpark Delta Pipeline](https://github.com/Sasireddy001/Kafka-pyspark-delta-pipeline)** — production-style streaming ingestion, transformations, and lakehouse storage. Includes CI/CD, pytest suite, benchmark, and Databricks/local deployment.
+- **[Portfolio](https://sasireddy001.github.io/Portfolio)** — personal brand site with projects, certifications, and skills.
 
 ## GitHub Stats
 
@@ -57,5 +59,7 @@ applications.
 
 ## Connect
 
+- Portfolio: [sasireddy001.github.io/Portfolio](https://sasireddy001.github.io/Portfolio)
 - Email: [sasidharmopuru@gmail.com](mailto:sasidharmopuru@gmail.com)
 - GitHub: [@Sasireddy001](https://github.com/Sasireddy001)
+- LinkedIn: *(add your URL here)*
