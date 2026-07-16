@@ -63,4 +63,4 @@ Cloud Data Engineer · Data Platform Engineer · AI Engineer · Solutions Archit
 - Resume: [PDF](https://sasireddy001.github.io/Portfolio/SASIDHAR_RESUME.pdf)
 - Email: [sasidharmopuru@gmail.com](mailto:sasidharmopuru@gmail.com)
 - GitHub: [@Sasireddy001](https://github.com/Sasireddy001)
-- LinkedIn: *(add your URL here)*
+- LinkedIn: [linkedin.com/in/sasidhar-mopuru-417a03233](https://www.linkedin.com/in/sasidhar-mopuru-417a03233)
