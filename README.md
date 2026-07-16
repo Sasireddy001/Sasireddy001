@@ -37,7 +37,7 @@ applications.
 - **Portfolio** — [Live site](https://sasireddy001.github.io/Portfolio) and
   [repository](https://github.com/Sasireddy001/Portfolio) with my experience,
   certifications, and technical skills.
-- **[Kafka → PySpark → Delta Lake Pipeline](https://github.com/Sasireddy001/Kafka-pyspark-delta-pipeline)** — production-style Kafka ingestion,
+- **[Production-Style Kafka PySpark Delta Pipeline](https://github.com/Sasireddy001/Kafka-pyspark-delta-pipeline)** — production-style Kafka ingestion,
   PySpark Structured Streaming transformations, and Delta Lake storage on Databricks.
 
 ## GitHub Stats
