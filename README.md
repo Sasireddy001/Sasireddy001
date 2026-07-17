@@ -35,6 +35,8 @@ Cloud Data Engineer · Data Platform Engineer · AI Engineer · Solutions Archit
 [![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white)](https://databricks.com)
 [![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=white)](https://kafka.apache.org)
 [![Delta Lake](https://img.shields.io/badge/Delta%20Lake-00ADD8?logo=delta&logoColor=white)](https://delta.io)
+[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)](https://terraform.io)
+[![Azure](https://img.shields.io/badge/Azure-0089D6?logo=microsoftazure&logoColor=white)](https://azure.microsoft.com)
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)](https://github.com/features/actions)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
 [![ChromaDB](https://img.shields.io/badge/ChromaDB-1A1A1A?logo=chromadb&logoColor=white)](https://www.trychroma.com)
@@ -42,6 +44,7 @@ Cloud Data Engineer · Data Platform Engineer · AI Engineer · Solutions Archit
 
 ## Featured Work
 
+- **[Cloud-Native Streaming Data Platform](https://github.com/Sasireddy001/Cloud-data-platform)** — cloud-native streaming platform with Azure Event Hubs, Databricks, ADLS Gen2, Delta Lake, and Terraform IaC. Multi-environment support (dev/prod), production-ready streaming job with watermark deduplication.
 - **[RAG Document QA Chatbot](https://github.com/Sasireddy001/rag-document-qa)** — retrieval-augmented generation app with FastAPI, Streamlit, ChromaDB, and local or OpenAI LLMs. Ingests documents, embeds chunks, retrieves context, and generates grounded answers. Includes CI/CD, tests, and architecture docs.
 - **[Production-Style Kafka PySpark Delta Pipeline](https://github.com/Sasireddy001/Kafka-pyspark-delta-pipeline)** — production-style streaming ingestion, transformations, and lakehouse storage. Includes CI/CD, pytest suite, benchmark, and Databricks/local deployment.
 - **[Portfolio](https://sasireddy001.github.io/Portfolio)** — personal brand site with projects, certifications, and skills.
