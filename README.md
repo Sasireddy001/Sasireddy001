@@ -21,9 +21,17 @@ I am a **Data & AI Platform Engineer with 2+ years of experience** building prod
 
 I am actively expanding into **Cloud, DevOps, Platform Engineering, and AI/LLM systems** — roles where strong data-engineering fundamentals are a force multiplier.
 
-## What I Build
+## Current Role / Professional Work
 
-End-to-end streaming data platforms that feed analytics, ML, and generative AI applications — with the reliability, testability, and observability production systems demand.
+**Data Engineer — Accenture (Feb 2024 – Present)**
+
+Primary focus: building and operating a configuration-driven **Core Data Product (CDP) platform**.
+
+- Design Source-to-Core Data Product pipelines with **PySpark** and JSON-based configuration
+- Build reusable Python utilities for logging, retry, schema validation, and secure credential extraction
+- Containerize Spark jobs with **Docker** and deploy through **GitLab CI/CD** across dev, sit, perf, and prod
+- Integrate **Kafka**, S3A-compatible object storage, relational databases, and **HashiCorp Vault** into pipeline workflows
+- Enforce enterprise data governance, unit testing, and NDA-compliant development practices
 
 ## Target Roles
 
@@ -43,7 +51,7 @@ Cloud Data Engineer · Data Platform Engineer · AI Engineer · Solutions Archit
 [![ChromaDB](https://img.shields.io/badge/ChromaDB-1A1A1A?logo=chromadb&logoColor=white)](https://www.trychroma.com)
 [![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)](https://openai.com)
 
-## Featured Work
+## Featured Personal Projects
 
 - **[Cloud-Native Streaming Data Platform](https://github.com/Sasireddy001/Cloud-data-platform)** — cloud-native streaming platform with Azure Event Hubs, Databricks, ADLS Gen2, Delta Lake, and Terraform IaC. Multi-environment support (dev/prod), production-ready streaming job with watermark deduplication.
 - **[RAG Document QA Chatbot](https://github.com/Sasireddy001/rag-document-qa)** — retrieval-augmented generation app with FastAPI, Streamlit, ChromaDB, and local or OpenAI LLMs. Ingests documents, embeds chunks, retrieves context, and generates grounded answers. Includes CI/CD, tests, and architecture docs.
