@@ -46,6 +46,14 @@ Cloud Data Engineer · Data Platform Engineer · AI Engineer · Solutions Archit
 - **[Production-Style Kafka PySpark Delta Pipeline](https://github.com/Sasireddy001/Kafka-pyspark-delta-pipeline)** — production-style streaming ingestion, transformations, and lakehouse storage. Includes CI/CD, pytest suite, benchmark, and Databricks/local deployment.
 - **[Portfolio](https://sasireddy001.github.io/Portfolio)** — personal brand site with projects, certifications, and skills.
 
+## Certifications
+
+- DP-700: Implementing Data Engineering Solutions using Microsoft Fabric – Microsoft
+- Databricks Certified Data Engineer Associate – Databricks
+- PySpark Streaming Training (8 Weeks) – Accenture
+- Google Data Analytics Professional Certificate – Coursera
+- NPTEL MIS – IIT Madras
+
 ## GitHub Stats
 
 <div align="center">
