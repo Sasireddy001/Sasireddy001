@@ -11,12 +11,13 @@
 
 ## About Me
 
-I am a **Data & AI Platform Engineer with 2+ years of experience** building production-grade streaming data products and lakehouse systems at Accenture. I specialize in turning high-velocity event data into reliable, AI-ready data platforms.
+I am a **Data & AI Platform Engineer with 2+ years of experience** building production-grade data products and lakehouse systems at Accenture. I specialize in turning high-velocity event data into reliable, AI-ready data platforms.
 
+- **Enterprise data products:** Design and build configuration-driven Source-to-Core Data Product pipelines using PySpark, Docker, and GitLab CI/CD
 - **Real-time pipelines:** Kafka → PySpark → Delta Lake with exactly-once processing
 - **Cloud & Lakehouse platforms:** Databricks, Apache Spark, schema enforcement, data quality
 - **AI-ready data engineering:** Evaluation systems, RAG data foundations, and agentic pipelines
-- **Production discipline:** CI/CD, automated testing, modular configuration-driven code
+- **Production discipline:** CI/CD, automated testing, modular configuration-driven code, secrets management, and multi-environment deployments
 
 I am actively expanding into **Cloud, DevOps, Platform Engineering, and AI/LLM systems** — roles where strong data-engineering fundamentals are a force multiplier.
 
