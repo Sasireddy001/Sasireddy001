@@ -189,4 +189,4 @@ Explore the latest designs: [Cloud Platform](https://github.com/Sasireddy001/Clo
 
 ---
 
-*Open to Data & AI Platform Engineer, Data Engineer, and Cloud Data Engineering roles worldwide.*
+*Open to Data & AI Platform Engineer, Data Engineer, and Cloud Data Engineering roles worldwide · 90-day notice.*
