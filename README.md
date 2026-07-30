@@ -2,7 +2,7 @@
 
 # Sasidhar Mopuru
 
-### Data & AI Platform Engineer · Databricks Certified · PySpark · Kafka · Delta Lake · Python
+### Data & AI Platform Engineer · OSS Contributor · Databricks Certified · PySpark · Kafka · Delta Lake · Python · TypeScript
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sasidhar-mopuru-417a03233" target="_blank" rel="noopener">
@@ -39,6 +39,12 @@ What I bring to a team:
 
 ---
 
+## Current Focus
+
+- Contributing to upstream open-source projects (`fastify`, `axios`, `trpc`, `jsdoc`, `strapi`, `microg`, `skillfrisk`)
+- Building production-style data pipelines, lakehouse systems, and RAG/LLM prototypes
+- Expanding maintainer-style review and OSS triage skills
+
 ## Core Stack
 
 ### Data Engineering & Lakehouse
@@ -62,7 +68,7 @@ What I bring to a team:
 ![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI/CD-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 
 ### Familiar With
-`Kubernetes` · `GCP` · `Ansible` · `HashiCorp Vault`
+`Kubernetes` · `GCP` · `Ansible` · `HashiCorp Vault` · `TypeScript` · `GitHub REST API` · `Open Source` · `Code Review`
 
 ### AI / LLM
 
@@ -126,6 +132,29 @@ Explore the latest designs: [Cloud Platform](https://github.com/Sasireddy001/Clo
 - **NPTEL Management Information System (MIS)** — Elite · IIT Kharagpur (Jul–Oct 2022)
 
 ---
+
+## Open Source
+
+### Merged Contributions
+
+| PR | Description | Merged |
+|---|---|---|
+| [fastify/fastify#6880](https://github.com/fastify/fastify/pull/6880) | docs: update TypeScript docs to reference Fastify 5.x | 2026-07-29 |
+| [axios/axios#11113](https://github.com/axios/axios/pull/11113) | docs: add missing `fs` import to README stream example | 2026-07-29 |
+
+### Active Contributions
+
+| PR | Description |
+|---|---|
+| [strapi/strapi#27152](https://github.com/strapi/strapi/pull/27152) | Fix `deleteMany` not working when filter by nested entity |
+| [microg/GmsCore#3680](https://github.com/microg/GmsCore/pull/3680) | Add RCS AIDL services and PhoneInfo real-telephony provider |
+| [trpc/trpc#7452](https://github.com/trpc/trpc/pull/7452) | docs: add secure error reporting section |
+| [jsdoc/jsdoc#2176](https://github.com/jsdoc/jsdoc/pull/2176) | docs: align README Node.js requirement with package.json |
+| [Topicspot/skillfrisk#9](https://github.com/Topicspot/skillfrisk/pull/9) | Add `--min-severity` flag to control which findings appear in reports |
+
+### Review Activity
+
+- **[axios/axios#11115](https://github.com/axios/axios/pull/11115)** — maintainer-style review covering code, tests, docs, and project conventions.
 
 ## Experience Snapshot
 
