@@ -30,6 +30,18 @@ Comprehensive flash cards for Data Engineering / Data Platform Engineer intervie
 - Record yourself to check clarity
 - Use these cards as a baseline, but also research company-specific questions
 
+## Profile Snapshot
+
+Use this profile context to map concepts in these flash cards to real-world experience:
+
+- **Role:** Data & AI Platform Engineer
+- **Experience:** 2+ years building enterprise PySpark ETL pipelines and lakehouse platforms
+- **Stack:** PySpark, Delta Lake, Apache Kafka, Databricks, Microsoft Fabric, Python, SQL, TypeScript
+- **Impact:** 90+ production ETL jobs, 67 SDPs / 120+ CDPs supported, 40% faster deployments, 99.5% uptime
+- **OSS:** Merged PRs in fastify and axios; active PRs in strapi, microG, tRPC, JSDoc, Topicspot/skillfrisk; reviews for axios
+- **Portfolio:** https://sasireddy001.github.io/Portfolio/#oss
+- **Target:** Data Engineer / Data & AI Platform Engineer roles in Bengaluru or remote
+
 ## Contributing
 
 Feel free to add new questions or improve answers as you learn more from interviews.

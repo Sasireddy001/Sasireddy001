@@ -1,5 +1,24 @@
 # System Design / Behavioral Flash Cards
 
+## My Behavioral Interview Scripts (Updated for Job Search)
+
+Use these as baseline answers and customize them for each company.
+
+**Q: Tell me about yourself.**  
+**A:** I’m Sasidhar, a Data & AI Platform Engineer with 2+ years of experience building production-grade streaming and lakehouse data platforms. I currently work on configuration-driven PySpark ETL pipelines — 90+ jobs supporting 67 SDPs and 120+ CDPs — and reduced deployment time by 40% using reusable Python utilities and JSON-based job definitions. I’m also an active open-source contributor: merged PRs in fastify and axios, active PRs in strapi, microG, tRPC, JSDoc, and Skillfrisk, plus maintainer-style reviews for axios. My work is documented at https://sasireddy001.github.io/Portfolio/#oss.
+
+**Q: Why should we hire you?**  
+**A:** I bring both enterprise data engineering discipline and modern open-source collaboration. I have hands-on experience with Databricks, Microsoft Fabric, Delta Lake, Kafka, PySpark, and CI/CD, and I write production-quality code beyond my day job. That means I can step into data pipelines immediately while also reviewing code and docs with a maintainer mindset.
+
+**Q: Tell me about a time you improved a process.**  
+**A:** In my current role, deployments for new ETL jobs were manual and repetitive. I built configuration-driven job definitions and reusable Python utilities that the team could plug into existing CI/CD. The result: 90+ jobs deployed across the platform, 40% faster time-to-production, and a 99.5% uptime target.
+
+**Q: Tell me about a time you learned something quickly.**  
+**A:** When I started contributing to fastify and axios, I had to learn TypeScript documentation conventions, GitHub review workflows, and how to write PRs that maintainers accept. I went from first commit to a merged PR in fastify within days, then applied those lessons to get another merged PR in axios.
+
+**Q: Where do you see yourself in 5 years?**  
+**A:** I want to own end-to-end data platform architecture — from ingestion and governance to serving data for analytics and AI. I also want to keep contributing to open source and grow into a senior engineer or maintainer in the data ecosystem.
+
 ## System Design - Core Concepts
 
 **Q: What is system design?**  

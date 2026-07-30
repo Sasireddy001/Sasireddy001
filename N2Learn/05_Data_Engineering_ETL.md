@@ -277,6 +277,9 @@
 **Q: Describe a complex data pipeline you built.**  
 **A:** Explain the problem, architecture, technologies used, challenges faced, and results achieved. Focus on scalability, reliability, and business impact.
 
+**Q: Sample answer: Kafka → PySpark → Delta pipeline.**  
+**A:** I built a production streaming pipeline that reads supply-chain events from Kafka, processes them with PySpark Structured Streaming, and writes to Delta Lake for analytics. It handles late-arriving data with watermarks, enforces schema validation, and checkpoints state to S3/ADLS. I used pytest for unit and integration tests, GitLab CI for deployment, and Delta Lake for ACID transactions and time travel. On a 4-core laptop benchmark, throughput reached 31k–45k rows/sec with exactly-once semantics. For enterprise use, the same pattern supported 90+ ETL jobs and 99.5% uptime.
+
 **Q: How do you handle late-arriving data?**  
 **A:** Use watermarking in streaming, reprocess with batch jobs, or use upsert logic in the target system.
 
