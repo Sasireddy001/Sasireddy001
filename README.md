@@ -2,7 +2,7 @@
 
 # Sasidhar Mopuru
 
-### Data & AI Platform Engineer · OSS Contributor · Databricks Certified · PySpark · Kafka · Delta Lake · Python · TypeScript
+### Data Platform Engineer · Databricks & Microsoft Fabric Certified · PySpark · Kafka · Delta Lake · Lakehouse Architecture · Python
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sasidhar-mopuru-417a03233" target="_blank" rel="noopener">
@@ -25,25 +25,29 @@
 
 ---
 
-## Who I Am
+## About Me
 
-I am a **Data & AI Platform Engineer** with 2+ years of production experience building large-scale ETL/ELT, streaming, and lakehouse systems. I specialize in turning high-velocity event data into reliable, cost-efficient, AI-ready platforms. I am **Databricks Certified** and **Microsoft DP-700 (Fabric)** certified.
+I build high-throughput streaming data platforms and lakehouse architectures that transform high-velocity event streams into AI-ready enterprise datasets.
 
-What I bring to a team:
+Currently at Accenture, I design, implement, and optimize data products using PySpark, Apache Kafka, and Delta Lake on Azure Databricks.
 
-- End-to-end data pipeline development and validation from ingestion to serving layer
-- Exactly-once stream processing with Kafka and PySpark Structured Streaming
-- Configuration-driven data pipelines integrated with CI/CD workflows
-- Production-grade testing and data validation
-- RAG and LLM-integrated prototypes and data foundations
+Core Engineering Focus:
+
+- Streaming & Batch Ingestion: Apache Kafka, PySpark Structured Streaming, Delta Lake, Azure Event Hubs
+- Lakehouse Architecture: Medallion Architecture (Bronze/Silver/Gold), Schema Enforcement, Unity Catalog, Idempotent Writes, Checkpointing
+- Quality & Observability: Pytest (95%+ test coverage), automated validation frameworks, CI/CD (GitLab/GitHub Actions), Docker
+- Open-Source & AI: Active open-source contributor | RAG architectures & vector store integrations (ChromaDB, LLM pipelines)
+
+Certifications: Databricks Certified Data Engineer Associate | Microsoft Fabric Analytics Engineer Associate (DP-700)
 
 ---
 
 ## Current Focus
 
-- Contributing to upstream open-source projects (`fastify`, `axios`, `trpc`, `jsdoc`, `strapi`, `microg`, `skillfrisk`)
-- Building production-style data pipelines, lakehouse systems, and RAG/LLM prototypes
-- Expanding maintainer-style review and OSS triage skills
+- Building production-grade streaming and lakehouse platforms with PySpark, Kafka, and Delta Lake
+- Engineering configuration-driven ETL/ELT pipelines with 95%+ test coverage and CI/CD
+- Contributing to upstream open-source projects (fastify, axios, tRPC) as a secondary learning channel
+- Exploring RAG/LLM integrations and vector-store architectures for AI-ready data systems
 
 ## Core Stack
 
@@ -160,11 +164,11 @@ Explore the latest designs: [Cloud Platform](https://github.com/Sasireddy001/Clo
 
 **Data Engineer — Accenture** · Feb 2024 – Present · Bengaluru, India
 
-- Delivered 90+ production PySpark ETL jobs across 4 supply-chain sub-domains, supporting 67 SDPs and 120+ CDPs through Python, JSON configuration, and DDL development
-- Reduced deployment time by 40% by developing configuration-driven pipeline definitions and reusable Python utilities used by the CDP/SDP platform
-- Achieved 99.5% pipeline uptime through modular PySpark pipelines with error handling, retry logic, schema validation, and data quality checks
-- Maintained 95%+ overall test coverage across 60+ pytest suites with mocked components
-- Owned end-to-end data quality and platform validation for 3–4 sprint releases across Kafka → Stage → Raw → HAST/CDP layers
+- Engineered & deployed 90+ enterprise PySpark ETL pipelines across 4 supply-chain sub-domains, standardizing real-time and batch ingestion into a unified Delta Lakehouse
+- Reduced pipeline deployment times by 40% by architecting modular, configuration-driven Python utilities and JSON-based definitions integrated with GitLab CI/CD workflows
+- Achieved 99.5%+ platform reliability by implementing fault-tolerant PySpark Structured Streaming jobs with automated schema enforcement and dynamic retries
+- Improved processing latency by 30% across Kafka-to-Delta streaming pipelines through custom memory tuning, caching strategies, and partition optimization
+- Established comprehensive data quality test suites using Pytest with 95%+ code coverage, eliminating critical schema-drift regressions in production
 
 ---
 
