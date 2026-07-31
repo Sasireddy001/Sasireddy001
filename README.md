@@ -141,7 +141,7 @@ Explore the latest designs: [Cloud Platform](https://github.com/Sasireddy001/Clo
 
 ## Open Source
 
-*Last verified: 2026-07-31 · 3 merged / 3 active / 1 review*
+*Last verified: 2026-07-31 · 3 merged PRs / 3 active PRs / 1 review*
 
 ### Merged Contributions
 
