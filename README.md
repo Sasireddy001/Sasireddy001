@@ -48,7 +48,7 @@ Certifications: Databricks Certified Data Engineer Associate | Microsoft Fabric 
 
 - Building production-grade streaming and lakehouse platforms with PySpark, Kafka, and Delta Lake
 - Engineering configuration-driven ETL/ELT pipelines with 95%+ test coverage and CI/CD
-- Contributing to upstream open-source projects — 3 merged PRs (fastify, axios, skillfrisk), 4 active PRs (microg, tRPC, jsdoc, kickama), and a maintainer-style review on axios#11115
+- Contributing to open-source projects — 4 merged PRs (fastify, axios, skillfrisk, microG RCS research), 4 active PRs (microg, tRPC, jsdoc, kickama), and a maintainer-style review on axios#11115
 - Exploring RAG/LLM integrations and vector-store architectures for AI-ready data systems
 
 ## Core Stack
@@ -141,7 +141,7 @@ Explore the latest designs: [Cloud Platform](https://github.com/Sasireddy001/Clo
 
 ## Open Source
 
-*Last verified: 2026-07-31 · 3 merged PRs / 4 active PRs / 1 review*
+*Last verified: 2026-07-31 · 4 merged PRs / 4 active PRs / 1 review*
 
 ### Merged Contributions
 
@@ -150,6 +150,7 @@ Explore the latest designs: [Cloud Platform](https://github.com/Sasireddy001/Clo
 | [fastify/fastify#6880](https://github.com/fastify/fastify/pull/6880) | docs: update TypeScript docs to reference Fastify 5.x | 2026-07-29 |
 | [axios/axios#11113](https://github.com/axios/axios/pull/11113) | docs: add missing `fs` import to README stream example | 2026-07-29 |
 | [Topicspot/skillfrisk#9](https://github.com/Topicspot/skillfrisk/pull/9) | Add `--min-severity` flag to control which findings appear in reports | 2026-07-31 |
+| [Sasireddy001/Microg#1](https://github.com/Sasireddy001/Microg/pull/1) | feat: add microG RCS bounty research and implementation work | 2026-07-28 |
 
 ### Active Contributions
 
