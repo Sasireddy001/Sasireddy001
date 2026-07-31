@@ -48,7 +48,7 @@ Certifications: Databricks Certified Data Engineer Associate | Microsoft Fabric 
 
 - Building production-grade streaming and lakehouse platforms with PySpark, Kafka, and Delta Lake
 - Engineering configuration-driven ETL/ELT pipelines with 95%+ test coverage and CI/CD
-- Contributing to upstream open-source projects — 3 merged PRs (fastify, axios, skillfrisk), 3 active PRs (microg, tRPC, jsdoc), and a maintainer-style review on axios#11115
+- Contributing to upstream open-source projects — 3 merged PRs (fastify, axios, skillfrisk), 4 active PRs (microg, tRPC, jsdoc, kickama), and a maintainer-style review on axios#11115
 - Exploring RAG/LLM integrations and vector-store architectures for AI-ready data systems
 
 ## Core Stack
@@ -141,7 +141,7 @@ Explore the latest designs: [Cloud Platform](https://github.com/Sasireddy001/Clo
 
 ## Open Source
 
-*Last verified: 2026-07-31 · 3 merged PRs / 3 active PRs / 1 review*
+*Last verified: 2026-07-31 · 3 merged PRs / 4 active PRs / 1 review*
 
 ### Merged Contributions
 
@@ -158,6 +158,7 @@ Explore the latest designs: [Cloud Platform](https://github.com/Sasireddy001/Clo
 | [microg/GmsCore#3680](https://github.com/microg/GmsCore/pull/3680) | Add RCS AIDL services and PhoneInfo real-telephony provider *(bounty-eligible for [microg/GmsCore#2994](https://github.com/microg/GmsCore/issues/2994))* |
 | [trpc/trpc#7452](https://github.com/trpc/trpc/pull/7452) | docs: add secure error reporting section |
 | [jsdoc/jsdoc#2176](https://github.com/jsdoc/jsdoc/pull/2176) | docs: align README Node.js requirement with package.json |
+| [xxnjms1-code/kickama-prize-lab#33](https://github.com/xxnjms1-code/kickama-prize-lab/pull/33) | [$35 BOUNTY] Coordinate auth token refresh across tabs |
 
 ### Review Activity
 
