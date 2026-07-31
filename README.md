@@ -21,7 +21,7 @@
 
 **Building real-time streaming and AI-ready data platforms with Apache Spark, Delta Lake, Kafka, and Databricks.**
 
-<p align="center"><strong>Bengaluru, India</strong> · Open to Data & AI Platform Engineer / Data Engineer roles · <strong>90-day notice</strong></p>
+<p align="center"><strong>Bengaluru, India</strong> · Open to <strong>Data & AI Platform Engineer</strong> roles · <strong>90-day notice</strong></p>
 
 </div>
 
