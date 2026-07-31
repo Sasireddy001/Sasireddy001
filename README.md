@@ -2,7 +2,7 @@
 
 # Sasidhar Mopuru
 
-### Data Platform Engineer · Databricks & Microsoft Fabric Certified · PySpark · Kafka · Delta Lake · Lakehouse Architecture · Python
+### Data & AI Platform Engineer · Databricks Certified · PySpark · Kafka · Delta Lake · Python · Building Real-Time Streaming & AI-Ready Data Systems
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sasidhar-mopuru-417a03233" target="_blank" rel="noopener">
@@ -20,6 +20,8 @@
 </p>
 
 **Building real-time streaming and AI-ready data platforms with Apache Spark, Delta Lake, Kafka, and Databricks.**
+
+<p align="center"><strong>Bengaluru, India</strong> · Open to Data & AI Platform Engineer / Data Engineer roles · <strong>90-day notice</strong></p>
 
 </div>
 
@@ -46,7 +48,7 @@ Certifications: Databricks Certified Data Engineer Associate | Microsoft Fabric 
 
 - Building production-grade streaming and lakehouse platforms with PySpark, Kafka, and Delta Lake
 - Engineering configuration-driven ETL/ELT pipelines with 95%+ test coverage and CI/CD
-- Contributing to upstream open-source projects (fastify, axios, tRPC) as a secondary learning channel
+- Contributing to upstream open-source projects — 3 merged PRs (fastify, axios, skillfrisk), 3 active PRs (microg, tRPC, jsdoc), and a maintainer-style review on axios#11115
 - Exploring RAG/LLM integrations and vector-store architectures for AI-ready data systems
 
 ## Core Stack
@@ -138,6 +140,8 @@ Explore the latest designs: [Cloud Platform](https://github.com/Sasireddy001/Clo
 ---
 
 ## Open Source
+
+*Last verified: 2026-07-31 · 3 merged / 3 active / 1 review*
 
 ### Merged Contributions
 
