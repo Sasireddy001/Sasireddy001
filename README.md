@@ -48,7 +48,7 @@ Certifications: Databricks Certified Data Engineer Associate | Microsoft Fabric 
 
 - Building production-grade streaming and lakehouse platforms with PySpark, Kafka, and Delta Lake
 - Engineering configuration-driven ETL/ELT pipelines with 95%+ test coverage and CI/CD
-- Contributing to open-source projects — 4 merged PRs (fastify, axios, skillfrisk, microG RCS research), 3 active PRs (tRPC, jsdoc, kickama), and a maintainer-style review on axios#11115
+- Contributing to open-source projects — 3 merged PRs (fastify, axios, skillfrisk), 3 active PRs (tRPC, jsdoc, kickama), and a maintainer-style review on axios#11115
 - Exploring RAG/LLM integrations and vector-store architectures for AI-ready data systems
 
 ## Core Stack
@@ -74,7 +74,7 @@ Certifications: Databricks Certified Data Engineer Associate | Microsoft Fabric 
 ![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI/CD-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 
 ### Familiar With
-`Kubernetes` · `GCP` · `Ansible` · `HashiCorp Vault` · `TypeScript` · `GitHub REST API` · `Open Source` · `Code Review`
+`Kubernetes` · `GCP` · `Ansible` · `HashiCorp Vault` · `TypeScript` · `GitHub REST API` · `Open Source` · `Code Review` · `Jira`
 
 ### AI / LLM
 
@@ -141,7 +141,7 @@ Explore the latest designs: [Cloud Platform](https://github.com/Sasireddy001/Clo
 
 ## Open Source
 
-*Last verified: 2026-07-31 · 4 merged PRs / 3 active PRs / 1 review*
+*Last verified: 2026-08-01 · 3 merged PRs / 3 active PRs / 1 review*
 
 ### Merged Contributions
 
@@ -150,7 +150,6 @@ Explore the latest designs: [Cloud Platform](https://github.com/Sasireddy001/Clo
 | [fastify/fastify#6880](https://github.com/fastify/fastify/pull/6880) | docs: update TypeScript docs to reference Fastify 5.x | 2026-07-29 |
 | [axios/axios#11113](https://github.com/axios/axios/pull/11113) | docs: add missing `fs` import to README stream example | 2026-07-29 |
 | [Topicspot/skillfrisk#9](https://github.com/Topicspot/skillfrisk/pull/9) | Add `--min-severity` flag to control which findings appear in reports | 2026-07-31 |
-| [Sasireddy001/Microg#1](https://github.com/Sasireddy001/Microg/pull/1) | feat: add microG RCS bounty research and implementation work | 2026-07-28 |
 
 ### Active Contributions
 
@@ -166,9 +165,13 @@ Explore the latest designs: [Cloud Platform](https://github.com/Sasireddy001/Clo
 
 ## Experience Snapshot
 
-**Data Engineer — Accenture** · Feb 2024 – Present · Bengaluru, India
+**Data Engineer, Management & Governance Analyst — Accenture** · Feb 2024 – Present · Associate → Analyst (Feb 2026, effective March 2026) · Bengaluru, India
 
 - Engineered & deployed 90+ enterprise PySpark ETL pipelines across 4 supply-chain sub-domains, standardizing real-time and batch ingestion into a unified Delta Lakehouse
+- Led 12 change requests (CRs) across 14 CDPs and completed tag validations for 40+ SDPs in a single day by comparing design documents, Kafka messages, and data across SDP STG → ACTIVE → HIST and SDP Active → CDP STG → ACTIVE → HIST flows
+- Worked in a 7-member E2E supply-chain data engineering team (1 lead, 1 tester, 5 DEs) covering site, supplier, item, and product sub-domains; primarily owned site and supplier pipelines while supporting item/product live monitoring
+- Managed full lifecycle of each physical data product: PySpark/Python main scripts, JSON configs, unit tests, SingleStore tables, Delta Lake lakehouse tables (with catalog/schemas), Control-M scheduling, Iomate job orchestration, and Acceldata monitoring across DEV, SIT, and PROD
+- Developed SDPs from design documents and built CDPs based on SDP schemas, applying transformation queries when multiple source SDPs feed a single CDP; maintained per-schema exception tables to capture invalid records with target table reference, error log, and timestamp
 - Reduced pipeline deployment times by 40% by architecting modular, configuration-driven Python utilities and JSON-based definitions integrated with GitLab CI/CD workflows
 - Achieved 99.5%+ platform reliability by implementing fault-tolerant PySpark Structured Streaming jobs with automated schema enforcement and dynamic retries
 - Improved processing latency by 30% across Kafka-to-Delta streaming pipelines through custom memory tuning, caching strategies, and partition optimization
