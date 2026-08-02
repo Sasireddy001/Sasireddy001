@@ -38,7 +38,7 @@ Use this profile context to map concepts in these flash cards to real-world expe
 - **Experience:** 2+ years building enterprise PySpark ETL pipelines and lakehouse platforms
 - **Stack:** PySpark, Delta Lake, Apache Kafka, Databricks, Microsoft Fabric, Python, SQL, TypeScript
 - **Impact:** 90+ production ETL jobs, 67 SDPs / 120+ CDPs supported, 40% faster deployments, 99.5% uptime
-- **OSS:** Merged PRs in fastify and axios; active PRs in strapi, microG, tRPC, JSDoc, Topicspot/skillfrisk; reviews for axios
+- **OSS:** 3 merged PRs (fastify, axios, skillfrisk), 3 active PRs (trpc, jsdoc, kickama-prize-lab), and a maintainer-style review on axios#11115
 - **Portfolio:** https://sasireddy001.github.io/Portfolio/#oss
 - **Target:** Data Engineer / Data & AI Platform Engineer roles in Bengaluru or remote
 

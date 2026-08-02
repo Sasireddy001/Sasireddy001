@@ -5,16 +5,16 @@
 ### Data & AI Platform Engineer · Databricks Certified · PySpark · Kafka · Delta Lake · Python · Building Real-Time Streaming & AI-Ready Data Systems
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sasidhar-mopuru-417a03233" target="_blank" rel="noopener">
+  <a href="https://www.linkedin.com/in/sasidhar-mopuru-417a03233" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://sasireddy001.github.io/Portfolio/" target="_blank" rel="noopener">
+  <a href="https://sasireddy001.github.io/Portfolio/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-2563EB?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://sasireddy001.github.io/Portfolio/SASIDHAR_RESUME.html" target="_blank" rel="noopener">
+  <a href="https://sasireddy001.github.io/Portfolio/SASIDHAR_RESUME_ATS_V2.html" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Resume-View-059669?style=flat-square" alt="Resume" />
   </a>
-  <a href="mailto:sasidharmopuru@gmail.com" target="_blank" rel="noopener">
+  <a href="mailto:sasidharmopuru@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -132,7 +132,7 @@ Explore the latest designs: [Cloud Platform](https://github.com/Sasireddy001/Clo
 ## Certifications
 
 - **DP-700: Implementing Data Engineering Solutions using Microsoft Fabric** — Microsoft (Dec 2025) [Verify](https://learn.microsoft.com/api/credentials/share/en-us/MopuruSasidhar-4473/13AA53E82F21D70C?sharingId=57F4CD5FCA3B941E)
-- **Databricks Certified Data Engineer Associate** — Databricks (Dec 2024) [Verify](https://credentials.databricks.com/550e3234-a017-4afd-a236-5d695da5c212?utm_source=whatsapp&utm_medium=social)
+- **Databricks Certified Data Engineer Associate** — Databricks (Dec 2024) [Verify on Credly](https://www.credly.com/users/sasidhar-mopuru)
 - **Databricks PySpark Streaming Training** — Accenture (Dec 2023 - Feb 2024)
 - **Google Data Analytics Professional Certificate** — Coursera (2023)
 - **NPTEL Management Information System (MIS)** — Elite · IIT Kharagpur (Jul–Oct 2022)
@@ -191,12 +191,24 @@ Explore the latest designs: [Cloud Platform](https://github.com/Sasireddy001/Clo
 
 ---
 
+## All Public Repositories
+
+| Repository | Description | Highlights |
+|---|---|---|
+| [Cloud-data-platform](https://github.com/Sasireddy001/Cloud-data-platform) | Terraform-managed streaming data platform on Azure / AWS | Azure Event Hubs · PySpark · Delta Lake · Terraform · CI/CD |
+| [Kafka-pyspark-delta-pipeline](https://github.com/Sasireddy001/Kafka-pyspark-delta-pipeline) | Production-style Kafka → PySpark → Delta Lake streaming pipeline | 31k–45k rows/sec · 95%+ pytest coverage · AWS MSK/EMR Serverless |
+| [rag-document-qa](https://github.com/Sasireddy001/rag-document-qa) | RAG Document QA Chatbot with FastAPI & Streamlit | ChromaDB · OpenAI/LLaMA · Vector DBs · CI/CD |
+| [Portfolio](https://github.com/Sasireddy001/Portfolio) | Live portfolio & ATS-optimized resume site | GitHub Pages · Web3Forms · Mermaid diagrams |
+| [N2Learn](https://github.com/Sasireddy001/N2Learn) | Interview flash cards for data engineering | PySpark · Delta Lake · Kafka · SQL · System Design |
+
+---
+
 ## Contact
 
 - **Email:** [sasidharmopuru@gmail.com](mailto:sasidharmopuru@gmail.com)
 - **LinkedIn:** [linkedin.com/in/sasidhar-mopuru-417a03233](https://www.linkedin.com/in/sasidhar-mopuru-417a03233)
 - **Portfolio:** [sasireddy001.github.io/Portfolio](https://sasireddy001.github.io/Portfolio/)
-- **Resume:** [View HTML Resume](https://sasireddy001.github.io/Portfolio/SASIDHAR_RESUME.html)
+- **Resume:** [View HTML Resume](https://sasireddy001.github.io/Portfolio/SASIDHAR_RESUME_ATS_V2.html)
 
 ---
 
