@@ -67,7 +67,6 @@ Certifications: Databricks Certified Data Engineer Associate | Microsoft Fabric 
 ### Cloud & Infrastructure
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
@@ -93,12 +92,12 @@ A production-grade streaming pipeline with JSON schema enforcement, bounded wate
 
 - 31k–45k rows/sec on a 4-core laptop
 - 95%+ unit test coverage with in-memory Spark fixture
-- AWS MSK Serverless + EMR Serverless Terraform deployment
+- Terraform-ready cloud deployment (local + Databricks)
 - [Architecture](https://github.com/Sasireddy001/Kafka-pyspark-delta-pipeline/blob/main/ARCHITECTURE.md) · [System Design](https://github.com/Sasireddy001/Kafka-pyspark-delta-pipeline/blob/main/SYSTEM_DESIGN.md)
 
 ### [Cloud-Native Streaming Data Platform](https://github.com/Sasireddy001/Cloud-data-platform)
 
-A Terraform-managed streaming data platform that ingests events from Azure Event Hubs / AWS MSK, processes them with PySpark Structured Streaming, and writes to Delta Lake.
+A Terraform-managed streaming data platform that ingests events from Azure Event Hubs, processes them with PySpark Structured Streaming, and writes to Delta Lake.
 
 - Exactly-once streaming with Delta Lake checkpointing
 - Multi-environment Terraform modules and GitHub Actions CI/CD
@@ -195,8 +194,8 @@ Explore the latest designs: [Cloud Platform](https://github.com/Sasireddy001/Clo
 
 | Repository | Description | Highlights |
 |---|---|---|
-| [Cloud-data-platform](https://github.com/Sasireddy001/Cloud-data-platform) | Terraform-managed streaming data platform on Azure / AWS | Azure Event Hubs · PySpark · Delta Lake · Terraform · CI/CD |
-| [Kafka-pyspark-delta-pipeline](https://github.com/Sasireddy001/Kafka-pyspark-delta-pipeline) | Production-style Kafka → PySpark → Delta Lake streaming pipeline | 31k–45k rows/sec · 95%+ pytest coverage · AWS MSK/EMR Serverless |
+| [Cloud-data-platform](https://github.com/Sasireddy001/Cloud-data-platform) | Terraform-managed streaming data platform on Azure | Azure Event Hubs · PySpark · Delta Lake · Terraform · CI/CD |
+| [Kafka-pyspark-delta-pipeline](https://github.com/Sasireddy001/Kafka-pyspark-delta-pipeline) | Production-style Kafka → PySpark → Delta Lake streaming pipeline | 31k–45k rows/sec · 95%+ pytest coverage · Terraform-ready cloud deployment |
 | [rag-document-qa](https://github.com/Sasireddy001/rag-document-qa) | RAG Document QA Chatbot with FastAPI & Streamlit | ChromaDB · OpenAI/LLaMA · Vector DBs · CI/CD |
 | [Portfolio](https://github.com/Sasireddy001/Portfolio) | Live portfolio & ATS-optimized resume site | GitHub Pages · Web3Forms · Mermaid diagrams |
 | [N2Learn](https://github.com/Sasireddy001/N2Learn) | Interview flash cards for data engineering | PySpark · Delta Lake · Kafka · SQL · System Design |
