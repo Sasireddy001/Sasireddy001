@@ -39,7 +39,7 @@ Scope: identify missing trust signals in the current Website Contact Scraper out
 ### No real contact email in CTA
 
 - **Gap:** `email_template.html` uses `mailto:hello@example.com` in the CTA button. This is a placeholder that kills credibility.
-- **Fix:** Replace with your real email, e.g. `mailto:sasidhar.mopuru@email.com?subject=Free%2050-contact%20sample`. If you prefer replies to a Gmail, use that address.
+- **Fix:** Replace with your real email: `mailto:sasidharmopuru@gmail.com?subject=Free%2050-contact%20sample`.
 
 ### No profile photo on Portfolio
 

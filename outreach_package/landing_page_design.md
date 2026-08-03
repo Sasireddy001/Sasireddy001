@@ -95,20 +95,27 @@ Turn visitors into sample requests and discovery calls.
 ### Pricing
 **Headline:** Simple, usage-based pricing.
 
-- **Starter — $35**  
+- **Starter — ₹2,500**  
   100 websites scraped  
   CSV with emails, phones, socials  
   24-hour delivery
 
-- **Growth — $75**  
+- **Growth — ₹10,000**  
   500 websites scraped  
-  Source code included  
+  CSV with emails, phones, socials  
   One free revision
 
-- **Scale — $150**  
+- **Scale — ₹25,000**  
   1,500 websites scraped  
-  Source code + custom niche filters  
+  CSV with emails, phones, socials  
   Priority support
+
+- **Enterprise — ₹50,000**  
+  1,500 websites scraped  
+  Full source code included  
+  Priority support
+
+Payment: 100% advance via UPI or bank transfer. CSV delivered within 24 hours of payment.
 
 **CTA under cards:** Get a free 50-contact sample
 

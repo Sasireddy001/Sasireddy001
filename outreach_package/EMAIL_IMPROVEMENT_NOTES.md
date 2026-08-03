@@ -78,12 +78,12 @@ Scope: review current email copy, subject lines, and pricing presentation. No ne
 - **Issue:** $35 for 100 sites, $75 for 500 sites + source code. In ₹ terms, $35 ≈ ₹3,000, not ₹2,500. The $75 Growth tier includes source code, but in the README only the ₹50,000 Enterprise tier includes source code.
 - **Fix:** Align tiers across all assets. Recommended single structure:
 
-  | Tier | Count | Includes | ₹ | $ approx |
-  |---|---|---|---|---|
-  | Starter | 100 | CSV | ₹2,500 | $30 |
-  | Growth | 500 | CSV | ₹10,000 | $120 |
-  | Scale | 1,500 | CSV | ₹25,000 | $300 |
-  | Enterprise | 1,500 | CSV + source code | ₹50,000 | $600 |
+  | Tier | Count | Includes | Price |
+  |---|---|---|---|
+  | Starter | 100 | CSV | ₹2,500 |
+  | Growth | 500 | CSV | ₹10,000 |
+  | Scale | 1,500 | CSV | ₹25,000 |
+  | Enterprise | 1,500 | CSV + source code | ₹50,000 |
 
 ### G. No monthly/retainer framing
 

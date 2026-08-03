@@ -150,7 +150,7 @@ I do not share client contact details without permission, but I can share a free
 You can also see my portfolio and the GitHub repo here:
 
 Portfolio: https://sasireddy001.github.io/Portfolio/
-GitHub: https://github.com/Sasireddy001/website-contact-scraper
+GitHub: https://github.com/Sasireddy001/Earn/tree/earn/InstantTools/website-contact-scraper
 
 Send me your target niche or 50 URLs and I will run the sample.
 ```

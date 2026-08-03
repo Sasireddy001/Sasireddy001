@@ -70,14 +70,12 @@ A lightweight web scraper that processes a list of URLs and returns a structured
 
 | Tier | Includes | Price |
 |------|----------|-------|
-| **Starter** | 100 websites scraped, CSV output | **$35** |
-| **Growth** | 500 websites scraped, source code included | **$75** |
-| **Scale** | 1,500 websites scraped, source code + custom filters | **$150** |
+| **Starter** | 100 websites scraped, CSV output | **₹2,500** |
+| **Growth** | 500 websites scraped, CSV output | **₹10,000** |
+| **Scale** | 1,500 websites scraped, CSV output | **₹25,000** |
+| **Enterprise** | 1,500 websites scraped, full source code | **₹50,000** |
 
-Add-ons:
-- Extra revision: $25
-- Custom niche filter: $50
-- Priority 12-hour delivery: $30
+Payment: 100% advance via UPI or bank transfer. CSV delivered within 24 hours of payment.
 
 ---
 
@@ -98,7 +96,7 @@ Send me 50 target URLs and I will return a CSV within 24 hours — no card, no c
 **Sasidhar Mopuru**  
 Data & AI Platform Engineer  
 Portfolio: https://sasireddy001.github.io/Portfolio/  
-GitHub: https://github.com/Sasireddy001/website-contact-scraper
+GitHub: https://github.com/Sasireddy001/Earn/tree/earn/InstantTools/website-contact-scraper
 
 ---
 
