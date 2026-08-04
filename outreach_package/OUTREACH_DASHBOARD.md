@@ -1,6 +1,6 @@
 # Outreach Dashboard — Website Contact Scraper
 
-Status as of Aug 4, 2026 — 12:11 AM IST
+Status as of Aug 4, 2026 — 12:26 PM IST
 
 Purpose: tracking only. No creation, prospect generation, or new research.
 
@@ -12,9 +12,9 @@ FUNNEL SUMMARY
 
 | Metric | Count |
 |---|---|
-| Emails Sent | 10 |
-| Delivered | 9 |
-| Bounced | 1 |
+| Emails Sent | 18 |
+| Delivered | 14 |
+| Bounced | 4 |
 | Replies | 0 |
 | Interested | 0 |
 | Sample Requested | 0 |
@@ -27,8 +27,8 @@ FUNNEL SUMMARY
 
 | Conversion | Calculation | Rate |
 |---|---|---|
-| Delivered / Sent | 9 / 10 | 90.0% |
-| Replies / Delivered | 0 / 9 | 0.0% |
+| Delivered / Sent | 14 / 18 | 77.8% |
+| Replies / Delivered | 0 / 14 | 0.0% |
 | Interested / Replies | 0 / 0 | N/A |
 | Samples / Interested | 0 / 0 | N/A |
 | Calls / Samples | 0 / 0 | N/A |
@@ -54,6 +54,8 @@ Only delivered prospects are shown below.
 | Agentic Demand | kyle@agentic-demand.com | Aug 3, 2026 | Delivered | Wait for reply until Aug 5; then send Follow-up #1 | Aug 5, 2026 |
 | DemandMagic | jason@demandmagic.ai | Aug 3, 2026 | Delivered | Wait for reply until Aug 5; then send Follow-up #1 | Aug 5, 2026 |
 
+*Note: 5 additional delivered prospects are not yet listed pending bounce details.*
+
 ---
 
 ==================================================
@@ -78,8 +80,8 @@ PIPELINE STAGES
 
 | Stage | Count |
 |---|---|
-| Stage 1: Sent | 10 |
-| Stage 2: Delivered | 9 |
+| Stage 1: Sent | 18 |
+| Stage 2: Delivered | 14 |
 | Stage 3: Replied | 0 |
 | Stage 4: Interested | 0 |
 | Stage 5: Sample Requested | 0 |
@@ -95,10 +97,10 @@ NEXT ACTIONS
 
 Current Recommendation:
 
-- Wait for replies from the 9 delivered emails.
+- Wait for replies from the 14 delivered emails.
 - Do not send follow-ups before 48 hours from send time.
 - Monitor inbox and spam folder for replies.
-- Recover or replace B2BLead if an alternate contact is found.
+- Recover or replace the 4 bounced contacts (B2BLead is confirmed).
 - Update this dashboard daily using the template below.
 
 ---
