@@ -37,7 +37,7 @@ Data & AI Platform Engineer
 https://sasireddy001.github.io/Portfolio/
 
 ATTACHMENTS:
-- sample_packages/ecommerce_local_business_sample.csv
+- sample_packages/Sample_B2B_Prospect_Data.csv
 
 FOLLOW-UP #1 (Day 2):
 Hi there,
@@ -95,7 +95,7 @@ Data & AI Platform Engineer
 https://sasireddy001.github.io/Portfolio/
 
 ATTACHMENTS:
-- sample_packages/ecommerce_local_business_sample.csv
+- sample_packages/Sample_B2B_Prospect_Data.csv
 
 FOLLOW-UP #1 (Day 2):
 Hi there,
@@ -153,7 +153,7 @@ Data & AI Platform Engineer
 https://sasireddy001.github.io/Portfolio/
 
 ATTACHMENTS:
-- sample_packages/real_estate_builder_sample.csv
+- sample_packages/Sample_B2B_Prospect_Data.csv
 
 FOLLOW-UP #1 (Day 2):
 Hi there,
@@ -211,7 +211,7 @@ Data & AI Platform Engineer
 https://sasireddy001.github.io/Portfolio/
 
 ATTACHMENTS:
-- sample_packages/dental_clinic_sample.csv
+- sample_packages/Sample_B2B_Prospect_Data.csv
 
 FOLLOW-UP #1 (Day 2):
 Hi there,
@@ -269,7 +269,7 @@ Data & AI Platform Engineer
 https://sasireddy001.github.io/Portfolio/
 
 ATTACHMENTS:
-- sample_packages/ecommerce_local_business_sample.csv
+- sample_packages/Sample_B2B_Prospect_Data.csv
 
 FOLLOW-UP #1 (Day 2):
 Hi there,
@@ -327,7 +327,7 @@ Data & AI Platform Engineer
 https://sasireddy001.github.io/Portfolio/
 
 ATTACHMENTS:
-- sample_packages/real_estate_builder_sample.csv
+- sample_packages/Sample_B2B_Prospect_Data.csv
 
 FOLLOW-UP #1 (Day 2):
 Hi there,
@@ -385,7 +385,7 @@ Data & AI Platform Engineer
 https://sasireddy001.github.io/Portfolio/
 
 ATTACHMENTS:
-- sample_packages/ecommerce_local_business_sample.csv
+- sample_packages/Sample_B2B_Prospect_Data.csv
 
 FOLLOW-UP #1 (Day 2):
 Hi there,
@@ -443,7 +443,7 @@ Data & AI Platform Engineer
 https://sasireddy001.github.io/Portfolio/
 
 ATTACHMENTS:
-- sample_packages/real_estate_builder_sample.csv
+- sample_packages/Sample_B2B_Prospect_Data.csv
 
 FOLLOW-UP #1 (Day 2):
 Hi there,
@@ -501,7 +501,7 @@ Data & AI Platform Engineer
 https://sasireddy001.github.io/Portfolio/
 
 ATTACHMENTS:
-- sample_packages/ecommerce_local_business_sample.csv
+- sample_packages/Sample_B2B_Prospect_Data.csv
 
 FOLLOW-UP #1 (Day 2):
 Hi Kyle,
@@ -559,7 +559,7 @@ Data & AI Platform Engineer
 https://sasireddy001.github.io/Portfolio/
 
 ATTACHMENTS:
-- sample_packages/dental_clinic_sample.csv
+- sample_packages/Sample_B2B_Prospect_Data.csv
 
 FOLLOW-UP #1 (Day 2):
 Hi Jason,
@@ -617,7 +617,7 @@ Data & AI Platform Engineer
 https://sasireddy001.github.io/Portfolio/
 
 ATTACHMENTS:
-- sample_packages/ecommerce_local_business_sample.csv
+- sample_packages/Sample_B2B_Prospect_Data.csv
 
 FOLLOW-UP #1 (Day 2):
 Hi there,
@@ -675,7 +675,7 @@ Data & AI Platform Engineer
 https://sasireddy001.github.io/Portfolio/
 
 ATTACHMENTS:
-- sample_packages/real_estate_builder_sample.csv
+- sample_packages/Sample_B2B_Prospect_Data.csv
 
 FOLLOW-UP #1 (Day 2):
 Hi there,
@@ -733,7 +733,7 @@ Data & AI Platform Engineer
 https://sasireddy001.github.io/Portfolio/
 
 ATTACHMENTS:
-- sample_packages/ecommerce_local_business_sample.csv
+- sample_packages/Sample_B2B_Prospect_Data.csv
 
 FOLLOW-UP #1 (Day 2):
 Hi Max,
@@ -791,7 +791,7 @@ Data & AI Platform Engineer
 https://sasireddy001.github.io/Portfolio/
 
 ATTACHMENTS:
-- sample_packages/dental_clinic_sample.csv
+- sample_packages/Sample_B2B_Prospect_Data.csv
 
 FOLLOW-UP #1 (Day 2):
 Hi there,
@@ -849,7 +849,7 @@ Data & AI Platform Engineer
 https://sasireddy001.github.io/Portfolio/
 
 ATTACHMENTS:
-- sample_packages/ecommerce_local_business_sample.csv
+- sample_packages/Sample_B2B_Prospect_Data.csv
 
 FOLLOW-UP #1 (Day 2):
 Hi Jamie,
@@ -907,7 +907,7 @@ Data & AI Platform Engineer
 https://sasireddy001.github.io/Portfolio/
 
 ATTACHMENTS:
-- sample_packages/real_estate_builder_sample.csv
+- sample_packages/Sample_B2B_Prospect_Data.csv
 
 FOLLOW-UP #1 (Day 2):
 Hi there,
@@ -965,7 +965,7 @@ Data & AI Platform Engineer
 https://sasireddy001.github.io/Portfolio/
 
 ATTACHMENTS:
-- sample_packages/ecommerce_local_business_sample.csv
+- sample_packages/Sample_B2B_Prospect_Data.csv
 
 FOLLOW-UP #1 (Day 2):
 Hi Shonda,
@@ -1023,7 +1023,7 @@ Data & AI Platform Engineer
 https://sasireddy001.github.io/Portfolio/
 
 ATTACHMENTS:
-- sample_packages/dental_clinic_sample.csv
+- sample_packages/Sample_B2B_Prospect_Data.csv
 
 FOLLOW-UP #1 (Day 2):
 Hi there,
@@ -1081,7 +1081,7 @@ Data & AI Platform Engineer
 https://sasireddy001.github.io/Portfolio/
 
 ATTACHMENTS:
-- sample_packages/ecommerce_local_business_sample.csv
+- sample_packages/Sample_B2B_Prospect_Data.csv
 
 FOLLOW-UP #1 (Day 2):
 Hi there,
@@ -1139,7 +1139,7 @@ Data & AI Platform Engineer
 https://sasireddy001.github.io/Portfolio/
 
 ATTACHMENTS:
-- sample_packages/real_estate_builder_sample.csv
+- sample_packages/Sample_B2B_Prospect_Data.csv
 
 FOLLOW-UP #1 (Day 2):
 Hi there,

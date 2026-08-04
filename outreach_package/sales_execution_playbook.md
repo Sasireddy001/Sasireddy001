@@ -33,15 +33,15 @@ Classify the reply first:
 
 ## 2. Best Sample CSV Recommendation
 
-Use the sample that feels closest to the prospect's target market. If you do not know, default to `ecommerce_local_business_sample.csv` because it is the most generic and looks like a real local business list.
+Use the sample that feels closest to the prospect's target market. If you do not know, default to `Sample_B2B_Prospect_Data.csv` because it is the most generic and looks like a real local business list.
 
 | Agency type | Recommended sample CSV | Why |
 |---|---|---|
-| B2B Lead Generation | `sample_packages/real_estate_builder_sample.csv` | Shows complex B2B contact extraction |
-| Demand Generation | `sample_packages/ecommerce_local_business_sample.csv` | Versatile, looks like campaign data |
-| Appointment Setting | `sample_packages/dental_clinic_sample.csv` | Local service businesses with phones |
-| Local SEO | `sample_packages/ecommerce_local_business_sample.csv` | Local business data with URLs and phones |
-| Unknown / generic | `sample_packages/ecommerce_local_business_sample.csv` | Safe default, no niche mismatch |
+| B2B Lead Generation | `sample_packages/Sample_B2B_Prospect_Data.csv` | Shows complex B2B contact extraction |
+| Demand Generation | `sample_packages/Sample_B2B_Prospect_Data.csv` | Versatile, looks like campaign data |
+| Appointment Setting | `sample_packages/Sample_B2B_Prospect_Data.csv` | Local service businesses with phones |
+| Local SEO | `sample_packages/Sample_B2B_Prospect_Data.csv` | Local business data with URLs and phones |
+| Unknown / generic | `sample_packages/Sample_B2B_Prospect_Data.csv` | Safe default, no niche mismatch |
 
 ---
 

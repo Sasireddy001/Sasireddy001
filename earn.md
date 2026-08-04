@@ -6,9 +6,9 @@ Asset: `InstantTools/website-contact-scraper`
 
 ## Sample packages prepared
 
-- `InstantTools/sample_packages/real_estate_builder_sample.csv`
-- `InstantTools/sample_packages/dental_clinic_sample.csv`
-- `InstantTools/sample_packages/ecommerce_local_business_sample.csv`
+- `InstantTools/sample_packages/Sample_B2B_Prospect_Data.csv`
+- `InstantTools/sample_packages/Sample_B2B_Prospect_Data.csv`
+- `InstantTools/sample_packages/Sample_B2B_Prospect_Data.csv`
 
 ---
 
@@ -54,7 +54,7 @@ Best,
 Sasidhar Mopuru
 ```
 
-**Attach sample:** `sample_packages/real_estate_builder_sample.csv`
+**Attach sample:** `sample_packages/Sample_B2B_Prospect_Data.csv`
 
 ---
 
@@ -100,7 +100,7 @@ Best,
 Sasidhar Mopuru
 ```
 
-**Attach sample:** `sample_packages/dental_clinic_sample.csv`
+**Attach sample:** `sample_packages/Sample_B2B_Prospect_Data.csv`
 
 ---
 
@@ -146,7 +146,7 @@ Best,
 Sasidhar Mopuru
 ```
 
-**Attach sample:** `sample_packages/ecommerce_local_business_sample.csv`
+**Attach sample:** `sample_packages/Sample_B2B_Prospect_Data.csv`
 
 ---
 
@@ -192,7 +192,7 @@ Best,
 Sasidhar Mopuru
 ```
 
-**Attach sample:** `sample_packages/real_estate_builder_sample.csv`
+**Attach sample:** `sample_packages/Sample_B2B_Prospect_Data.csv`
 
 ---
 
@@ -238,7 +238,7 @@ Best,
 Sasidhar Mopuru
 ```
 
-**Attach sample:** `sample_packages/dental_clinic_sample.csv`
+**Attach sample:** `sample_packages/Sample_B2B_Prospect_Data.csv`
 
 ---
 
@@ -284,7 +284,7 @@ Best,
 Sasidhar Mopuru
 ```
 
-**Attach sample:** `sample_packages/ecommerce_local_business_sample.csv`
+**Attach sample:** `sample_packages/Sample_B2B_Prospect_Data.csv`
 
 ---
 
@@ -330,7 +330,7 @@ Best,
 Sasidhar Mopuru
 ```
 
-**Attach sample:** `sample_packages/real_estate_builder_sample.csv`
+**Attach sample:** `sample_packages/Sample_B2B_Prospect_Data.csv`
 
 ---
 
@@ -376,7 +376,7 @@ Best,
 Sasidhar Mopuru
 ```
 
-**Attach sample:** `sample_packages/dental_clinic_sample.csv`
+**Attach sample:** `sample_packages/Sample_B2B_Prospect_Data.csv`
 
 ---
 
@@ -422,7 +422,7 @@ Best,
 Sasidhar Mopuru
 ```
 
-**Attach sample:** `sample_packages/ecommerce_local_business_sample.csv`
+**Attach sample:** `sample_packages/Sample_B2B_Prospect_Data.csv`
 
 ---
 
@@ -468,7 +468,7 @@ Best,
 Sasidhar Mopuru
 ```
 
-**Attach sample:** `sample_packages/real_estate_builder_sample.csv`
+**Attach sample:** `sample_packages/Sample_B2B_Prospect_Data.csv`
 
 ---
 
@@ -514,7 +514,7 @@ Best,
 Sasidhar Mopuru
 ```
 
-**Attach sample:** `sample_packages/dental_clinic_sample.csv`
+**Attach sample:** `sample_packages/Sample_B2B_Prospect_Data.csv`
 
 ---
 
@@ -560,7 +560,7 @@ Best,
 Sasidhar Mopuru
 ```
 
-**Attach sample:** `sample_packages/ecommerce_local_business_sample.csv`
+**Attach sample:** `sample_packages/Sample_B2B_Prospect_Data.csv`
 
 ---
 
@@ -606,7 +606,7 @@ Best,
 Sasidhar Mopuru
 ```
 
-**Attach sample:** `sample_packages/real_estate_builder_sample.csv`
+**Attach sample:** `sample_packages/Sample_B2B_Prospect_Data.csv`
 
 ---
 
@@ -652,7 +652,7 @@ Best,
 Sasidhar Mopuru
 ```
 
-**Attach sample:** `sample_packages/dental_clinic_sample.csv`
+**Attach sample:** `sample_packages/Sample_B2B_Prospect_Data.csv`
 
 ---
 
@@ -698,7 +698,7 @@ Best,
 Sasidhar Mopuru
 ```
 
-**Attach sample:** `sample_packages/ecommerce_local_business_sample.csv`
+**Attach sample:** `sample_packages/Sample_B2B_Prospect_Data.csv`
 
 ---
 
@@ -744,7 +744,7 @@ Best,
 Sasidhar Mopuru
 ```
 
-**Attach sample:** `sample_packages/real_estate_builder_sample.csv`
+**Attach sample:** `sample_packages/Sample_B2B_Prospect_Data.csv`
 
 ---
 
@@ -790,7 +790,7 @@ Best,
 Sasidhar Mopuru
 ```
 
-**Attach sample:** `sample_packages/dental_clinic_sample.csv`
+**Attach sample:** `sample_packages/Sample_B2B_Prospect_Data.csv`
 
 ---
 
@@ -836,7 +836,7 @@ Best,
 Sasidhar Mopuru
 ```
 
-**Attach sample:** `sample_packages/ecommerce_local_business_sample.csv`
+**Attach sample:** `sample_packages/Sample_B2B_Prospect_Data.csv`
 
 ---
 
@@ -882,7 +882,7 @@ Best,
 Sasidhar Mopuru
 ```
 
-**Attach sample:** `sample_packages/real_estate_builder_sample.csv`
+**Attach sample:** `sample_packages/Sample_B2B_Prospect_Data.csv`
 
 ---
 
@@ -928,7 +928,7 @@ Best,
 Sasidhar Mopuru
 ```
 
-**Attach sample:** `sample_packages/dental_clinic_sample.csv`
+**Attach sample:** `sample_packages/Sample_B2B_Prospect_Data.csv`
 
 ---
 

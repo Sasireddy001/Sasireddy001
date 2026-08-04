@@ -6,9 +6,9 @@ Scope: review how the free sample is presented and identify what weakens it. No 
 
 ## 1. Current Sample Assets
 
-- `sample_packages/ecommerce_local_business_sample.csv` — 3 e-commerce / local business rows
-- `sample_packages/dental_clinic_sample.csv` — 3 dental clinic rows
-- `sample_packages/real_estate_builder_sample.csv` — 3 real-estate builder rows
+- `sample_packages/Sample_B2B_Prospect_Data.csv` — 3 e-commerce / local business rows
+- `sample_packages/Sample_Dental_Lead_Data.csv` — 3 dental clinic rows
+- `sample_packages/Sample_RealEstate_Contacts.csv` — 3 real-estate builder rows
 - `email_template.html` — 3-row sample table (URL, Email, Phone)
 - `sales_sheet.md` — sample `What You Get` table with a real-estate example
 - `README.md` — sample output from `github.com/about` and `vercel.com/contact`
@@ -31,13 +31,13 @@ Scope: review how the free sample is presented and identify what weakens it. No 
 
 ### C. Same attachment for every agency
 
-- **Issue:** `agency_outreach_campaign.md` attaches `ecommerce_local_business_sample.csv` to every prospect, including B2B lead-gen agencies like OUTRIVA and BuzzLead. A B2B agency does not care about local boutiques and grocery stores.
+- **Issue:** `agency_outreach_campaign.md` attaches `Sample_B2B_Prospect_Data.csv` to every prospect, including B2B lead-gen agencies like OUTRIVA and BuzzLead. A B2B agency does not care about local boutiques and grocery stores.
 - **Why it matters:** Irrelevant samples make the sender look lazy and reduce perceived fit.
 - **Fix:** Map the right sample to the right agency type:
-  - B2B lead-gen / demand-gen / appointment-setting agencies → `sample_packages/b2b_saas_sample.csv` (create from existing `real_estate_builder_sample.csv` if no better file exists, or re-label)
-  - Local SEO agencies → `dental_clinic_sample.csv` or `real_estate_builder_sample.csv`
-  - E-commerce / DTC agencies → `ecommerce_local_business_sample.csv`
-  - If a vertical-specific sample does not exist, send the `real_estate_builder_sample.csv` because real estate is closest to B2B local sales.
+  - B2B lead-gen / demand-gen / appointment-setting agencies → `sample_packages/b2b_saas_sample.csv` (create from existing `Sample_RealEstate_Contacts.csv` if no better file exists, or re-label)
+  - Local SEO agencies → `Sample_Dental_Lead_Data.csv` or `Sample_RealEstate_Contacts.csv`
+  - E-commerce / DTC agencies → `Sample_B2B_Prospect_Data.csv`
+  - If a vertical-specific sample does not exist, send the `Sample_RealEstate_Contacts.csv` because real estate is closest to B2B local sales.
 
 ### D. No sample provenance note
 
@@ -61,7 +61,7 @@ Scope: review how the free sample is presented and identify what weakens it. No 
 
 - **Issue:** The README `Sample Output` uses `github.com/about` and `vercel.com/contact`, which are not relatable to agency buyers. They also do not show emails or phones, only social links.
 - **Why it matters:** The README is a buyer-facing page. It should show the exact output an agency would receive for their ICP.
-- **Fix:** Replace the README sample output with the `real_estate_builder_sample.csv` or `dental_clinic_sample.csv` data. Show real business contacts, not big-tech about pages.
+- **Fix:** Replace the README sample output with the `Sample_RealEstate_Contacts.csv` or `Sample_Dental_Lead_Data.csv` data. Show real business contacts, not big-tech about pages.
 
 ### H. No visual sample
 

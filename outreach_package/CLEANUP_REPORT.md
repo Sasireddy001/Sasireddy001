@@ -38,15 +38,15 @@ Scope: clean up existing outreach assets by replacing placeholder emails, standa
 - Updated `git clone` URL from `https://github.com/Sasireddy001/website-contact-scraper.git` to `https://github.com/Sasireddy001/Earn.git`
 - Adjusted install/run commands to use `Earn` repo root and `website-contact-scraper/` subpath
 
-### 8. `sample_packages/ecommerce_local_business_sample.csv`
+### 8. `sample_packages/Sample_B2B_Prospect_Data.csv`
 - Added `data_status` column: `synthetic` for all rows
 - Added `disclaimer` column: `Sample data for demonstration. Verify before use.`
 
-### 9. `sample_packages/dental_clinic_sample.csv`
+### 9. `sample_packages/Sample_Dental_Lead_Data.csv`
 - Added `data_status` column: `synthetic` for all rows
 - Added `disclaimer` column: `Sample data for demonstration. Verify before use.`
 
-### 10. `sample_packages/real_estate_builder_sample.csv`
+### 10. `sample_packages/Sample_RealEstate_Contacts.csv`
 - Added `data_status` column: `synthetic` for all rows
 - Added `disclaimer` column: `Sample data for demonstration. Verify before use.`
 
