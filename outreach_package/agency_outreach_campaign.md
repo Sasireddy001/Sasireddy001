@@ -1,4 +1,4 @@
-# Agency Outreach Campaign — Website Contact Scraper
+﻿# Agency Outreach Campaign — Website Contact Scraper
 
 **Goal:** Generate replies, sample requests, discovery calls, and first paid engagement.  
 **Asset:** `InstantTools/website-contact-scraper`  
@@ -42,17 +42,23 @@ ATTACHMENTS:
 FOLLOW-UP #1 (Day 2):
 Hi there,
 
-Quick follow-up on the free 50-contact sample for OUTRIVA. Happy to run it for your target ICP.
+Just checking - would a sample list of OUTRIVA's target accounts with publicly available contact information be useful for your team?
 
-Best,  
+No cost. No tech setup. I can send it as a clean CSV within 24 hours.
+
+Best,
 Sasidhar Mopuru
 
 FOLLOW-UP #2 (Day 4):
 Hi there,
 
-Last bump — I have a slot to run your free sample today. If you don't need lead data right now, no worries.
+Last follow-up - I do not want to keep bothering you.
 
-Best,  
+If you are building a prospect list right now, I can send a free sample. If not, no worries.
+
+Worth a quick yes or no?
+
+Best,
 Sasidhar Mopuru
 
 EXPECTED OFFER:
@@ -100,17 +106,23 @@ ATTACHMENTS:
 FOLLOW-UP #1 (Day 2):
 Hi there,
 
-Quick follow-up on the free 50-contact sample for BuzzLead. Happy to run it for your next outbound campaign.
+Just checking - would a sample list of BuzzLead's target accounts with publicly available contact information be useful for your team?
 
-Best,  
+No cost. No tech setup. I can send it as a clean CSV within 24 hours.
+
+Best,
 Sasidhar Mopuru
 
 FOLLOW-UP #2 (Day 4):
 Hi there,
 
-Last bump — I have a slot to run your free sample today. If you don't need lead data right now, no worries.
+Last follow-up - I do not want to keep bothering you.
 
-Best,  
+If you are building a prospect list right now, I can send a free sample. If not, no worries.
+
+Worth a quick yes or no?
+
+Best,
 Sasidhar Mopuru
 
 EXPECTED OFFER:
@@ -158,17 +170,23 @@ ATTACHMENTS:
 FOLLOW-UP #1 (Day 2):
 Hi there,
 
-Quick follow-up on the free 50-contact sample for B2BLead. Happy to run it for any vertical you target.
+Just checking - would a sample list of B2BLead's target accounts with publicly available contact information be useful for your team?
 
-Best,  
+No cost. No tech setup. I can send it as a clean CSV within 24 hours.
+
+Best,
 Sasidhar Mopuru
 
 FOLLOW-UP #2 (Day 4):
 Hi there,
 
-Last bump — I have a slot to run your free sample today. If you don't need lead data right now, no worries.
+Last follow-up - I do not want to keep bothering you.
 
-Best,  
+If you are building a prospect list right now, I can send a free sample. If not, no worries.
+
+Worth a quick yes or no?
+
+Best,
 Sasidhar Mopuru
 
 EXPECTED OFFER:
@@ -216,17 +234,23 @@ ATTACHMENTS:
 FOLLOW-UP #1 (Day 2):
 Hi there,
 
-Quick follow-up on the free 50-contact sample for contactON. Happy to run it for your target market.
+Just checking - would a sample list of contactON's target accounts with publicly available contact information be useful for your team?
 
-Best,  
+No cost. No tech setup. I can send it as a clean CSV within 24 hours.
+
+Best,
 Sasidhar Mopuru
 
 FOLLOW-UP #2 (Day 4):
 Hi there,
 
-Last bump — I have a slot to run your free sample today. If you don't need lead data right now, no worries.
+Last follow-up - I do not want to keep bothering you.
 
-Best,  
+If you are building a prospect list right now, I can send a free sample. If not, no worries.
+
+Worth a quick yes or no?
+
+Best,
 Sasidhar Mopuru
 
 EXPECTED OFFER:
@@ -274,17 +298,23 @@ ATTACHMENTS:
 FOLLOW-UP #1 (Day 2):
 Hi there,
 
-Quick follow-up on the free 50-contact sample for PMG B2B. Happy to run it for your target sectors.
+Just checking - would a sample list of PMG B2B's target accounts with publicly available contact information be useful for your team?
 
-Best,  
+No cost. No tech setup. I can send it as a clean CSV within 24 hours.
+
+Best,
 Sasidhar Mopuru
 
 FOLLOW-UP #2 (Day 4):
 Hi there,
 
-Last bump — I have a slot to run your free sample today. If you don't need lead data right now, no worries.
+Last follow-up - I do not want to keep bothering you.
 
-Best,  
+If you are building a prospect list right now, I can send a free sample. If not, no worries.
+
+Worth a quick yes or no?
+
+Best,
 Sasidhar Mopuru
 
 EXPECTED OFFER:
@@ -332,17 +362,23 @@ ATTACHMENTS:
 FOLLOW-UP #1 (Day 2):
 Hi there,
 
-Quick follow-up on the free 50-contact sample for Leadium. Happy to run it for any vertical you target.
+Just checking - would a sample list of Leadium's target accounts with publicly available contact information be useful for your team?
 
-Best,  
+No cost. No tech setup. I can send it as a clean CSV within 24 hours.
+
+Best,
 Sasidhar Mopuru
 
 FOLLOW-UP #2 (Day 4):
 Hi there,
 
-Last bump — I have a slot to run your free sample today. If you don't need lead data right now, no worries.
+Last follow-up - I do not want to keep bothering you.
 
-Best,  
+If you are building a prospect list right now, I can send a free sample. If not, no worries.
+
+Worth a quick yes or no?
+
+Best,
 Sasidhar Mopuru
 
 EXPECTED OFFER:
@@ -390,17 +426,23 @@ ATTACHMENTS:
 FOLLOW-UP #1 (Day 2):
 Hi there,
 
-Quick follow-up on the free 50-contact sample for Outsource Demand Gen. Happy to run it for your target audience.
+Just checking - would a sample list of Outsource Demand Gen's target accounts with publicly available contact information be useful for your team?
 
-Best,  
+No cost. No tech setup. I can send it as a clean CSV within 24 hours.
+
+Best,
 Sasidhar Mopuru
 
 FOLLOW-UP #2 (Day 4):
 Hi there,
 
-Last bump — I have a slot to run your free sample today. If you don't need lead data right now, no worries.
+Last follow-up - I do not want to keep bothering you.
 
-Best,  
+If you are building a prospect list right now, I can send a free sample. If not, no worries.
+
+Worth a quick yes or no?
+
+Best,
 Sasidhar Mopuru
 
 EXPECTED OFFER:
@@ -448,17 +490,23 @@ ATTACHMENTS:
 FOLLOW-UP #1 (Day 2):
 Hi there,
 
-Quick follow-up on the free 50-contact sample for DemandNexus. Happy to run it for your target accounts.
+Just checking - would a sample list of DemandNexus's target accounts with publicly available contact information be useful for your team?
 
-Best,  
+No cost. No tech setup. I can send it as a clean CSV within 24 hours.
+
+Best,
 Sasidhar Mopuru
 
 FOLLOW-UP #2 (Day 4):
 Hi there,
 
-Last bump — I have a slot to run your free sample today. If you don't need lead data right now, no worries.
+Last follow-up - I do not want to keep bothering you.
 
-Best,  
+If you are building a prospect list right now, I can send a free sample. If not, no worries.
+
+Worth a quick yes or no?
+
+Best,
 Sasidhar Mopuru
 
 EXPECTED OFFER:
@@ -504,19 +552,25 @@ ATTACHMENTS:
 - sample_packages/Sample_B2B_Prospect_Data.csv
 
 FOLLOW-UP #1 (Day 2):
-Hi Kyle,
+Hi there,
 
-Quick follow-up on the free 50-contact sample for Agentic Demand. Happy to run it for your target ICP.
+Just checking - would a sample list of Agentic Demand's target accounts with publicly available contact information be useful for your team?
 
-Best,  
+No cost. No tech setup. I can send it as a clean CSV within 24 hours.
+
+Best,
 Sasidhar Mopuru
 
 FOLLOW-UP #2 (Day 4):
-Hi Kyle,
+Hi there,
 
-Last bump — I have a slot to run your free sample today. If you don't need lead data right now, no worries.
+Last follow-up - I do not want to keep bothering you.
 
-Best,  
+If you are building a prospect list right now, I can send a free sample. If not, no worries.
+
+Worth a quick yes or no?
+
+Best,
 Sasidhar Mopuru
 
 EXPECTED OFFER:
@@ -562,19 +616,25 @@ ATTACHMENTS:
 - sample_packages/Sample_B2B_Prospect_Data.csv
 
 FOLLOW-UP #1 (Day 2):
-Hi Jason,
+Hi there,
 
-Quick follow-up on the free 50-contact sample for DemandMagic. Happy to run it for your target market.
+Just checking - would a sample list of DemandMagic's target accounts with publicly available contact information be useful for your team?
 
-Best,  
+No cost. No tech setup. I can send it as a clean CSV within 24 hours.
+
+Best,
 Sasidhar Mopuru
 
 FOLLOW-UP #2 (Day 4):
-Hi Jason,
+Hi there,
 
-Last bump — I have a slot to run your free sample today. If you don't need lead data right now, no worries.
+Last follow-up - I do not want to keep bothering you.
 
-Best,  
+If you are building a prospect list right now, I can send a free sample. If not, no worries.
+
+Worth a quick yes or no?
+
+Best,
 Sasidhar Mopuru
 
 EXPECTED OFFER:
@@ -622,17 +682,23 @@ ATTACHMENTS:
 FOLLOW-UP #1 (Day 2):
 Hi there,
 
-Quick follow-up on the free 50-contact sample for Appointment Setter Online. Happy to run it for your target niche.
+Just checking - would a sample list of Appointment Setter Online's target accounts with publicly available contact information be useful for your team?
 
-Best,  
+No cost. No tech setup. I can send it as a clean CSV within 24 hours.
+
+Best,
 Sasidhar Mopuru
 
 FOLLOW-UP #2 (Day 4):
 Hi there,
 
-Last bump — I have a slot to run your free sample today. If you don't need lead data right now, no worries.
+Last follow-up - I do not want to keep bothering you.
 
-Best,  
+If you are building a prospect list right now, I can send a free sample. If not, no worries.
+
+Worth a quick yes or no?
+
+Best,
 Sasidhar Mopuru
 
 EXPECTED OFFER:
@@ -680,17 +746,23 @@ ATTACHMENTS:
 FOLLOW-UP #1 (Day 2):
 Hi there,
 
-Quick follow-up on the free 50-contact sample for AppointSet. Happy to run it for your target ICP.
+Just checking - would a sample list of AppointSet's target accounts with publicly available contact information be useful for your team?
 
-Best,  
+No cost. No tech setup. I can send it as a clean CSV within 24 hours.
+
+Best,
 Sasidhar Mopuru
 
 FOLLOW-UP #2 (Day 4):
 Hi there,
 
-Last bump — I have a slot to run your free sample today. If you don't need lead data right now, no worries.
+Last follow-up - I do not want to keep bothering you.
 
-Best,  
+If you are building a prospect list right now, I can send a free sample. If not, no worries.
+
+Worth a quick yes or no?
+
+Best,
 Sasidhar Mopuru
 
 EXPECTED OFFER:
@@ -736,19 +808,25 @@ ATTACHMENTS:
 - sample_packages/Sample_B2B_Prospect_Data.csv
 
 FOLLOW-UP #1 (Day 2):
-Hi Max,
+Hi there,
 
-Quick follow-up on the free 50-contact sample for Prosper Outbound. Happy to run it for your target market.
+Just checking - would a sample list of Prosper Outbound's target accounts with publicly available contact information be useful for your team?
 
-Best,  
+No cost. No tech setup. I can send it as a clean CSV within 24 hours.
+
+Best,
 Sasidhar Mopuru
 
 FOLLOW-UP #2 (Day 4):
-Hi Max,
+Hi there,
 
-Last bump — I have a slot to run your free sample today. If you don't need lead data right now, no worries.
+Last follow-up - I do not want to keep bothering you.
 
-Best,  
+If you are building a prospect list right now, I can send a free sample. If not, no worries.
+
+Worth a quick yes or no?
+
+Best,
 Sasidhar Mopuru
 
 EXPECTED OFFER:
@@ -796,17 +874,23 @@ ATTACHMENTS:
 FOLLOW-UP #1 (Day 2):
 Hi there,
 
-Quick follow-up on the free 50-contact sample for B2B Only. Happy to run it for your target industries.
+Just checking - would a sample list of B2B Only's target accounts with publicly available contact information be useful for your team?
 
-Best,  
+No cost. No tech setup. I can send it as a clean CSV within 24 hours.
+
+Best,
 Sasidhar Mopuru
 
 FOLLOW-UP #2 (Day 4):
 Hi there,
 
-Last bump — I have a slot to run your free sample today. If you don't need lead data right now, no worries.
+Last follow-up - I do not want to keep bothering you.
 
-Best,  
+If you are building a prospect list right now, I can send a free sample. If not, no worries.
+
+Worth a quick yes or no?
+
+Best,
 Sasidhar Mopuru
 
 EXPECTED OFFER:
@@ -852,19 +936,25 @@ ATTACHMENTS:
 - sample_packages/Sample_B2B_Prospect_Data.csv
 
 FOLLOW-UP #1 (Day 2):
-Hi Jamie,
+Hi there,
 
-Quick follow-up on the free 50-contact sample for The Appointment Setter. Happy to run it for your target market.
+Just checking - would a sample list of The Appointment Setter's target accounts with publicly available contact information be useful for your team?
 
-Best,  
+No cost. No tech setup. I can send it as a clean CSV within 24 hours.
+
+Best,
 Sasidhar Mopuru
 
 FOLLOW-UP #2 (Day 4):
-Hi Jamie,
+Hi there,
 
-Last bump — I have a slot to run your free sample today. If you don't need lead data right now, no worries.
+Last follow-up - I do not want to keep bothering you.
 
-Best,  
+If you are building a prospect list right now, I can send a free sample. If not, no worries.
+
+Worth a quick yes or no?
+
+Best,
 Sasidhar Mopuru
 
 EXPECTED OFFER:
@@ -912,17 +1002,23 @@ ATTACHMENTS:
 FOLLOW-UP #1 (Day 2):
 Hi there,
 
-Quick follow-up on the free 50-contact sample for Best Appointment Setters. Happy to run it for your target niche.
+Just checking - would a sample list of Best Appointment Setters's target accounts with publicly available contact information be useful for your team?
 
-Best,  
+No cost. No tech setup. I can send it as a clean CSV within 24 hours.
+
+Best,
 Sasidhar Mopuru
 
 FOLLOW-UP #2 (Day 4):
 Hi there,
 
-Last bump — I have a slot to run your free sample today. If you don't need lead data right now, no worries.
+Last follow-up - I do not want to keep bothering you.
 
-Best,  
+If you are building a prospect list right now, I can send a free sample. If not, no worries.
+
+Worth a quick yes or no?
+
+Best,
 Sasidhar Mopuru
 
 EXPECTED OFFER:
@@ -968,19 +1064,25 @@ ATTACHMENTS:
 - sample_packages/Sample_B2B_Prospect_Data.csv
 
 FOLLOW-UP #1 (Day 2):
-Hi Shonda,
+Hi there,
 
-Quick follow-up on the free 50-contact sample for SEO is Local. Happy to run it for Waco or any Texas market.
+Just checking - would a sample list of SEO is Local's target accounts with publicly available contact information be useful for your team?
 
-Best,  
+No cost. No tech setup. I can send it as a clean CSV within 24 hours.
+
+Best,
 Sasidhar Mopuru
 
 FOLLOW-UP #2 (Day 4):
-Hi Shonda,
+Hi there,
 
-Last bump — I have a slot to run your free sample today. If you don't need lead data right now, no worries.
+Last follow-up - I do not want to keep bothering you.
 
-Best,  
+If you are building a prospect list right now, I can send a free sample. If not, no worries.
+
+Worth a quick yes or no?
+
+Best,
 Sasidhar Mopuru
 
 EXPECTED OFFER:
@@ -1028,17 +1130,23 @@ ATTACHMENTS:
 FOLLOW-UP #1 (Day 2):
 Hi there,
 
-Quick follow-up on the free 50-contact sample for Local Pro SEO. Happy to run it for any local market you serve.
+Just checking - would a sample list of Local Pro SEO's target accounts with publicly available contact information be useful for your team?
 
-Best,  
+No cost. No tech setup. I can send it as a clean CSV within 24 hours.
+
+Best,
 Sasidhar Mopuru
 
 FOLLOW-UP #2 (Day 4):
 Hi there,
 
-Last bump — I have a slot to run your free sample today. If you don't need lead data right now, no worries.
+Last follow-up - I do not want to keep bothering you.
 
-Best,  
+If you are building a prospect list right now, I can send a free sample. If not, no worries.
+
+Worth a quick yes or no?
+
+Best,
 Sasidhar Mopuru
 
 EXPECTED OFFER:
@@ -1086,17 +1194,23 @@ ATTACHMENTS:
 FOLLOW-UP #1 (Day 2):
 Hi there,
 
-Quick follow-up on the free 50-contact sample for Appointment Setting Pros. Happy to run it for your target niche.
+Just checking - would a sample list of Appointment Setting Pros's target accounts with publicly available contact information be useful for your team?
 
-Best,  
+No cost. No tech setup. I can send it as a clean CSV within 24 hours.
+
+Best,
 Sasidhar Mopuru
 
 FOLLOW-UP #2 (Day 4):
 Hi there,
 
-Last bump — I have a slot to run your free sample today. If you don't need lead data right now, no worries.
+Last follow-up - I do not want to keep bothering you.
 
-Best,  
+If you are building a prospect list right now, I can send a free sample. If not, no worries.
+
+Worth a quick yes or no?
+
+Best,
 Sasidhar Mopuru
 
 EXPECTED OFFER:
@@ -1144,17 +1258,23 @@ ATTACHMENTS:
 FOLLOW-UP #1 (Day 2):
 Hi there,
 
-Quick follow-up on the free 50-contact sample for Blue Zebra. Happy to run it for your target market.
+Just checking - would a sample list of Blue Zebra Appointment Setting's target accounts with publicly available contact information be useful for your team?
 
-Best,  
+No cost. No tech setup. I can send it as a clean CSV within 24 hours.
+
+Best,
 Sasidhar Mopuru
 
 FOLLOW-UP #2 (Day 4):
 Hi there,
 
-Last bump — I have a slot to run your free sample today. If you don't need lead data right now, no worries.
+Last follow-up - I do not want to keep bothering you.
 
-Best,  
+If you are building a prospect list right now, I can send a free sample. If not, no worries.
+
+Worth a quick yes or no?
+
+Best,
 Sasidhar Mopuru
 
 EXPECTED OFFER:

@@ -15,8 +15,8 @@ Quick gaps to fix as replies start coming in:
 - **Email template uses `hello@example.com`.** Must be replaced with a real reply-to address before sending.
 - **Pricing is only in ₹.** Non-India prospects may not know the exchange rate or how to pay.
 - **No privacy / data-sourcing statement.** Prospects may worry about legal risk.
-- **GitHub repo is inside `Earn`, not a standalone `website-contact-scraper` repo.** Lower perceived product focus.
-- **Portfolio link does not have a dedicated scraper landing page.** A prospect has to dig for relevance.
+- **Product repo is inside `Earn`, not a standalone `website-contact-data` repo.** Lower perceived product focus.
+- **Portfolio link does not have a dedicated contact data landing page.** A prospect has to dig for relevance.
 - **No live sample/demo page.** A prospect cannot click and see output instantly.
 
 ---
@@ -28,7 +28,7 @@ Quick gaps to fix as replies start coming in:
 ```
 Hi [Name],
 
-Absolutely. I will run the scraper on 50 of your target websites and send you the CSV within 24 hours.
+Absolutely. I will prepare a sample list of 50 target accounts with publicly available contact information and send you the CSV within 24 hours.
 
 Please reply with either:
 - a list of 50 URLs, or
@@ -45,7 +45,7 @@ Free. This is the 50-contact sample.
 If the sample quality is good, recommend the **500-site Growth tier at ₹10,000** as the best value.
 
 ### Next action
-Collect the URLs or niche, run the scraper, deliver the CSV, and follow up 24 hours after delivery.
+Collect the URLs or niche, prepare the contact data, deliver the CSV, and follow up 24 hours after delivery.
 
 ---
 
@@ -61,7 +61,7 @@ Here is the pricing:
 - ₹2,500 — 100 websites
 - ₹10,000 — 500 websites
 - ₹25,000 — 1,500 websites
-- ₹50,000 — 1,500 websites + full source code
+- ₹50,000 — 1,500 websites + full in-house process
 
 Each is a one-time fee and the output is a CSV with emails, phones, LinkedIn, Twitter, Facebook, Instagram, page title, and meta description.
 
@@ -88,7 +88,7 @@ Hi [Name],
 
 Apollo is a database. You pay per contact or a monthly fee, and the data can be stale.
 
-This scraper pulls live, source-linked data from the websites you choose. Every row includes the URL it came from, so the data is transparent and you are not locked into a subscription.
+This process pulls live, source-linked data from the websites you choose. Every row includes the URL it came from, so the data is transparent and you are not locked into a subscription.
 
 If you already have a list of target websites, this is usually faster and cheaper than buying credits.
 
@@ -122,7 +122,7 @@ If it is larger, here is the pricing:
 - ₹2,500 — 100 sites
 - ₹10,000 — 500 sites
 - ₹25,000 — 1,500 sites
-- ₹50,000 — 1,500 sites + source code
+- ₹50,000 — 1,500 sites + in-house process
 
 Turnaround is 24-48 hours after payment.
 ```
@@ -147,12 +147,11 @@ Hi [Name],
 
 I do not share client contact details without permission, but I can share a free 50-contact sample so you can judge the data quality directly. That is usually the fastest reference.
 
-You can also see my portfolio and the GitHub repo here:
+You can also see my portfolio here:
 
 Portfolio: https://sasireddy001.github.io/Portfolio/
-GitHub: https://github.com/Sasireddy001/Earn/tree/earn/InstantTools/website-contact-scraper
 
-Send me your target niche or 50 URLs and I will run the sample.
+Send me your target niche or 50 URLs and I will prepare the sample.
 ```
 
 ### Pricing response
@@ -173,25 +172,25 @@ Deliver the free sample and ask for the target list.
 ```
 Hi [Name],
 
-Yes. The ₹50,000 Enterprise tier includes the full source code so your team can run it on your own machine or server.
+Yes. The ₹50,000 Enterprise tier includes the full in-house process so your team can run it on your own machine or server.
 
-If you do not need the source code, I can deliver the CSV for any tier and you can use the data however you want.
+If you do not need the in-house process, I can deliver the CSV for any tier and you can use the data however you want.
 
 Pricing:
 - ₹2,500 — 100 sites
 - ₹10,000 — 500 sites
 - ₹25,000 — 1,500 sites
-- ₹50,000 — 1,500 sites + source code
+- ₹50,000 — 1,500 sites + in-house process
 ```
 
 ### Pricing response
-Source code is **₹50,000**. CSV-only delivery starts at **₹2,500**.
+In-house process is **₹50,000**. CSV-only delivery starts at **₹2,500**.
 
 ### Upsell path
 If they want to run themselves, push **Enterprise**. If they only want data, push **Growth** or **Scale** based on volume.
 
 ### Next action
-Ask whether they want source code or a one-time CSV delivery.
+Ask whether they want the in-house process or a one-time CSV delivery.
 
 ---
 
@@ -226,7 +225,7 @@ Remove from active follow-up. Re-engage in 60-90 days with a new sample offer if
 | Sample | Yes, free sample | URLs or niche | 50 free contacts |
 | Pricing | Pricing table | URL list | Free sample |
 | Apollo comparison | Difference | URLs | Free comparison sample |
-| List to scrape | Yes | URL list | Tier recommendation |
+| List of URLs | Yes | URL list | Tier recommendation |
 | References | Sample as proof | URLs | Free sample |
-| Run themselves | Source code available | Source or CSV? | Enterprise or Growth |
+| Run themselves | In-house process available | Source or CSV? | Enterprise or Growth |
 | Not interested | Polite close | Nothing | Leave door open |
